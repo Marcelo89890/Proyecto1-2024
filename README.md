@@ -61,7 +61,7 @@
 
 4. **Fecha de Entrega del Primer Commit:**
    - **28 de Junio:** El commit con el mensaje "Feat: Entregable 1" debe estar realizado antes de esta fecha, de lo contrario no será evaluado.
-
+   -Commits debes de la fecha no serán evaluados.
 5. **Segunda Parte del Proyecto:**
    - Continuar con los cambios adicionales y realizar un segundo commit con el mensaje:
      ```bash
@@ -72,7 +72,7 @@
 
 6. **Fecha de Entrega del Segundo Commit:**
    - **8 de Julio:** El commit con el mensaje "Feat: Entregable 2" debe estar realizado antes de esta fecha, de lo contrario no será evaluado.
-
+   -Commits debes de la fecha no serán evaluados.
 
 ## Diseño
 ## [DiseñoProyecto.pdf](https://github.com/Marcelo89890/Proyecto1-2024/blob/main/Dise%C3%B1oProyecto.pdf)
