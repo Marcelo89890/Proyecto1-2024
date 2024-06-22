@@ -222,11 +222,11 @@ Proyecto-NoticiasTecnologicas/
     <div class="enlaces-pie__contenedor">
       <ul class="enlaces-pie__lista">
         <li><a href="#"><h3>Título Uno</h3></a></li>
-        <li><a href="#">Blockchain</a></li>
+        <li><a href="#">Ver Discografias </a></li>
       </ul>
       <ul class="enlaces-pie__lista">
         <li><a href="#"><h3>Título Dos</h3></a></li>
-        <li><a href="#">Computación Cuántica</a></li>
+        <li><a href="#">Descargar Musica </a></li>
       </ul>
     </div>
   </div>
