@@ -71,7 +71,7 @@
      ```
 
 6. **Fecha de Entrega del Segundo Commit:**
-   - **8 de Julio:** El commit con el mensaje "Feat: Entregable 2" debe estar realizado antes de esta fecha, de lo contrario no será evaluado.
+   - **5 de Julio:** El commit con el mensaje "Feat: Entregable 2" debe estar realizado antes de esta fecha, de lo contrario no será evaluado.
    -Commits después  de la fecha no serán evaluados.
 
 ## Diseño
