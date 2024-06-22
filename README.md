@@ -1,6 +1,7 @@
 # Instrucciones para Proyecto 1
 **El diseño debe quedar igual al del PDF las card, navbar,iconos y imagenes en el mismo lugar, en el repositorio se encuentran las imagenes. 
 **No se permite usar boostrap
+
 **Entregar antes de las fechas indicadas. No se aceptan tareas despues de la fecha. 
 ## Parte 1: Crear el Repositorio y Rama
 
