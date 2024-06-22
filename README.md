@@ -75,8 +75,8 @@
 
 
 ## Diseño
-<iframe src="[DiseñoProyecto.pdf](https://github.com/Marcelo89890/Proyecto1-2024/blob/main/Dise%C3%B1oProyecto.pdf)" width="100%" height="600px">
-</iframe>
+## [DiseñoProyecto.pdf](https://github.com/Marcelo89890/Proyecto1-2024/blob/main/Dise%C3%B1oProyecto.pdf)
+
 ## Estructura del Proyecto
 
 Proyecto-NoticiasTecnologicas/
