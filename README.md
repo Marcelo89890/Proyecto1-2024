@@ -1,8 +1,24 @@
 # Instrucciones para Proyecto 1
-**El diseño debe quedar igual al del PDF las card, navbar,iconos y imagenes en el mismo lugar, en el repositorio se encuentran las imagenes. 
-**No se permite usar boostrap
 
-**Entregar antes de las fechas indicadas. No se aceptan tareas despues de la fecha. 
+**El diseño debe quedar igual al del PDF, incluyendo las cards, navbar, iconos e imágenes en el mismo lugar. En el repositorio se encuentran las imágenes.**
+**No se permite usar Bootstrap.**
+**Entregar antes de las fechas indicadas. No se aceptan tareas después de la fecha.**
+<br>
+** Explicar su diseño en el archivo Readme.md de su repositorio**
+## Tabla de Contenidos
+- [Parte 1: Crear el Repositorio y Rama](#parte-1-crear-el-repositorio-y-rama)
+- [Parte 2: Realizar los Cambios y Commits](#parte-2-realizar-los-cambios-y-commits)
+  - [Estructura del Proyecto](#estructura-del-proyecto)
+  - [Diseño con CSS Flex y Grid](#diseño-con-css-flex-y-grid)
+  - [Commit de los Cambios](#commit-de-los-cambios)
+  - [Fecha de Entrega del Primer Commit](#fecha-de-entrega-del-primer-commit)
+  - [Segunda Parte del Proyecto](#segunda-parte-del-proyecto)
+  - [Fecha de Entrega del Segundo Commit](#fecha-de-entrega-del-segundo-commit)
+- [Estructura del Proyecto](#estructura-del-proyecto-1)
+- [Consejos Adicionales](#consejos-adicionales)
+- [Diseño](#diseño)
+- [Estructura HTML](#estructura-html)
+
 ## Parte 1: Crear el Repositorio y Rama
 
 1. **Crear Repositorio en GitHub:**
@@ -27,7 +43,7 @@
    - Crear un archivo `styles.css` y añadirlo al repositorio.
 
 2. **Diseño con CSS Flex y Grid:**
-   - Utilizar CSS Flexbox y Grid para diseñar la página de acuerdo a las siguientes secciones use la fuente   font-family: "Oswald", sans-serif;:
+   - Utilizar CSS Flexbox y Grid para diseñar la página de acuerdo a las siguientes secciones usando la fuente `font-family: "Oswald", sans-serif;`:
      - **Menú de Navegación:** Diseñar utilizando Flexbox.
      - **Cabecera:** Diseñar utilizando Grid.
      - **Tarjetas de Noticias:** Diseñar utilizando Flexbox para la disposición de las tarjetas.
@@ -36,7 +52,7 @@
      - **Pie de Página:** Diseñar utilizando Grid.
 
 3. **Commit de los Cambios:**
-   - Una vez que tengas los cambios listos, realiza un commit con el siguiente mensaje:
+   - Puedes crear los commits que gustes, sin embargo el commit final debe tener el siguiente mensaje:
      ```bash
      git add .
      git commit -m "Feat: Entregable 1"
@@ -44,10 +60,9 @@
      ```
 
 4. **Fecha de Entrega del Primer Commit:**
-   -Puedes Crear los Commits que gustes, sin embargo el commit final debe indicar lo siguiente: 
-   - **28 de Junio:** El commit con el mensaje "Feat: Entregable 1" debe estar realizado antes de esta fecha, de lo contrario no sea evaluado .
+   - **28 de Junio:** El commit con el mensaje "Feat: Entregable 1" debe estar realizado antes de esta fecha, de lo contrario no será evaluado.
 
-6. **Segunda Parte del Proyecto:**
+5. **Segunda Parte del Proyecto:**
    - Continuar con los cambios adicionales y realizar un segundo commit con el mensaje:
      ```bash
      git add .
@@ -55,25 +70,28 @@
      git push origin FT-Desarrollo
      ```
 
-7. **Fecha de Entrega del Segundo Commit:**
-   -Puedes Crear los Commits que gustes, sin embargo el commit final debe indicar lo siguiente: 
-   - **8 de Julio:** El commit con el mensaje "Feat: Entregable 2" debe estar realizado antes de esta fecha, de lo contrario no sea evaluado .
+6. **Fecha de Entrega del Segundo Commit:**
+   - **8 de Julio:** El commit con el mensaje "Feat: Entregable 2" debe estar realizado antes de esta fecha, de lo contrario no será evaluado.
 
 ## Estructura del Proyecto
-Proyecto-NoticiasTecnologicas/
-│
-├── index.html
-├── styles.css
-├── img/
+## Diseño
+<iframe src="DiseñoProyecto.pdf" width="100%" height="600px">
+</iframe>
 
-# Consejos Adicionales
-- Asegúrate de probar el diseño en varios navegadores y dispositivos para verificar la responsividad.
+Proyecto-NoticiasTecnologicas/
+```HTML
+├── index.html
+├── CSS/styles.css
+├── Assets/
+ README.md
+```
+
+## Consejos Adicionales
+
 - Utiliza herramientas de desarrollo del navegador para depurar y ajustar el diseño según sea necesario.
 - Revisa los conceptos de CSS Flexbox y Grid para asegurarte de utilizarlos correctamente.
 
-¡Buena suerte con tu proyecto!
-<iframe src="ruta/al/archivo.pdf" width="100%" height="600px">
-</iframe>
+## Diseño
 ```HTML
 <!DOCTYPE html>
 <html lang="es">
