@@ -72,7 +72,8 @@ Proyecto-NoticiasTecnologicas/
 - Revisa los conceptos de CSS Flexbox y Grid para asegurarte de utilizarlos correctamente.
 
 ¡Buena suerte con tu proyecto!
-
+<iframe src="ruta/al/archivo.pdf" width="100%" height="600px">
+</iframe>
 ```HTML
 <!DOCTYPE html>
 <html lang="es">
