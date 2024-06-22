@@ -73,10 +73,11 @@
 6. **Fecha de Entrega del Segundo Commit:**
    - **8 de Julio:** El commit con el mensaje "Feat: Entregable 2" debe estar realizado antes de esta fecha, de lo contrario no será evaluado.
 
-## Estructura del Proyecto
+
 ## Diseño
-<iframe src="DiseñoProyecto.pdf" width="100%" height="600px">
+<iframe src="[DiseñoProyecto.pdf](https://github.com/Marcelo89890/Proyecto1-2024/blob/main/Dise%C3%B1oProyecto.pdf)" width="100%" height="600px">
 </iframe>
+## Estructura del Proyecto
 
 Proyecto-NoticiasTecnologicas/
 ```HTML
@@ -91,7 +92,8 @@ Proyecto-NoticiasTecnologicas/
 - Utiliza herramientas de desarrollo del navegador para depurar y ajustar el diseño según sea necesario.
 - Revisa los conceptos de CSS Flexbox y Grid para asegurarte de utilizarlos correctamente.
 
-## Diseño
+## Estructura HTML
+
 ```HTML
 <!DOCTYPE html>
 <html lang="es">
