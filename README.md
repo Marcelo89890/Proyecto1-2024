@@ -171,7 +171,7 @@ Proyecto-NoticiasTecnologicas/
         <a href="#">Más información <i class="fas fa-angle-double-right"></i></a>
       </div>
     </div>
-  <!-- Entregable 2 8 de julio-->
+  <!-- Entregable 2 5 de julio-->
     <!-- Banner de Tarjetas 1-->
     <section class="banner-tarjetas-uno">
       <div class="banner-tarjetas-uno__contenido">
