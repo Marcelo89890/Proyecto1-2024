@@ -1,6 +1,8 @@
 # Instrucciones para Proyecto 1
 
 ## Parte 1: Crear el Repositorio y Rama
+**El diseño debe quedar igual al del PDF las card, navbar,iconos y imagenes en el mismo lugar, en el repositorio se encuentran las imagenes. 
+**No se permite usar boostrap
 
 1. **Crear Repositorio en GitHub:**
    - Crear un nuevo repositorio público en GitHub llamado `Proyecto-NoticiasTecnologicas`.
@@ -95,8 +97,8 @@ Proyecto-NoticiasTecnologicas/
   <div class="contenedor">
     <!-- Navegación -->
     <nav class="navegacion-principal">
-      <!-- Marca -->
-      <img src="img/Spotify_App_Logo.svg.png" alt="Logo NoticiasTecnológicas" class="navegacion-principal__marca">
+      <!-- Aqui va el logo(Marca de la compañia) usar la clase  :  navegacion-principal__marca-->
+ 
       <!-- Navegación Izquierda -->
       <ul class="navegacion-principal__menu">
         <li><a href="#">Inicio</a></li>
@@ -122,25 +124,26 @@ Proyecto-NoticiasTecnologicas/
     <!-- TARJETAS DE NOTICIAS -->
     <div class="tarjetas-noticias">
       <div class="tarjetas-noticias__tarjeta">
-        <img src="img/news1.jpg" alt="">
+     
+ 
         <h3>Lorem ipsum dolor.</h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolore fugit esse corporis nesciunt minima doloremque modi mollitia rerum, similique optio eligendi itaque amet qui ullam vel incidunt asperiores fuga?</p>
         <a href="#">Más información <i class="fas fa-angle-double-right"></i></a>
       </div>
       <div class="tarjetas-noticias__tarjeta">
-        <img src="img/news2.jpg" alt="">
+        
         <h3>Lorem ipsum dolor.</h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolore fugit esse corporis nesciunt minima doloremque modi mollitia rerum, similique optio eligendi itaque amet qui ullam vel incidunt asperiores fuga?</p>
         <a href="#">Más información <i class="fas fa-angle-double-right"></i></a>
       </div>
       <div class="tarjetas-noticias__tarjeta">
-        <img src="img/news3.jpg" alt="">
+     
         <h3>Lorem ipsum dolor.</h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolore fugit esse corporis nesciunt minima doloremque modi mollitia rerum, similique optio eligendi itaque amet qui ullam vel incidunt asperiores fuga?</p>
         <a href="#">Más información <i class="fas fa-angle-double-right"></i></a>
       </div>
       <div class="tarjetas-noticias__tarjeta">
-        <img src="img/news4.jpg" alt="">
+     
         <h3>Lorem ipsum dolor.</h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolore fugit esse corporis nesciunt minima doloremque modi mollitia rerum, similique optio eligendi itaque amet qui ullam vel incidunt asperiores fuga?</p>
         <a href="#">Más información <i class="fas fa-angle-double-right"></i></a>
@@ -159,13 +162,13 @@ Proyecto-NoticiasTecnologicas/
     <!-- TARJETAS DE NOTICIAS -->
     <div class="tarjetas-noticias">
       <div class="tarjetas-noticias__tarjeta">
-        <img src="img/news1.jpg" alt="">
+   
         <h3>Lorem ipsum dolor.</h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolore fugit esse corporis nesciunt minima doloremque modi mollitia rerum, similique optio eligendi itaque amet qui ullam vel incidunt asperiores fuga?</p>
         <a href="#">Más información <i class="fas fa-angle-double-right"></i></a>
       </div>
       <div class="tarjetas-noticias__tarjeta">
-        <img src="img/news2.jpg" alt="">
+    
         <h3>Lorem ipsum dolor.</h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolore fugit esse corporis nesciunt minima doloremque modi mollitia rerum, similique optio eligendi itaque amet qui ullam vel incidunt asperiores fuga?</p>
         <a href="#">Más información <i class="fas fa-angle-double-right"></i></a>
@@ -186,8 +189,8 @@ Proyecto-NoticiasTecnologicas/
       <p>Sigue a NoticiasTecnológicas</p>
       <div class="social__enlaces">
         <a href="https://facebook.com"><i class="fab fa-facebook-f"></i></a>
-        <a href="https://twitter.com"><i class="fab fa-twitter"></i></a>
-        <a href="https://linkedin.com"><i class="fab fa-linkedin"></i></a>
+       <!-- Aqui va el resto de los iconos-->
+ 
       </div>
     </section>
   </div>
